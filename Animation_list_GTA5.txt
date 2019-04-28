@@ -1,0 +1,64 @@
+8474 oddjobs@shop_robbery@rob_till | exit 1
+собирает предметы в карманы
+8473 oddjobs@hunter | idle_a_call 1 говорит по телефону
+8569 oddjobs@basejump@ig_15 | puton_parachute 1
+надевает парашют
+8376 mp_weapons_deal_string | cracked_bag_loop 1
+делает проводку на земле(полу)
+8375 mp_uncuff_paired | crook_02_p1_0 1
+в наручниках(руки за спиной)
+8346 mp_safehouselost@ | package_dropoff 1
+берет с кармана что-то и ложит на стол
+8371 mp_shipment_steal | hack_loop 1
+программирует стоя
+8115 mp_bank_heist_1 | m_cover_01 1
+сдается (на коленях)
+7097 missprologueig_2 | idle_on_floor_malehostage02 1
+на коленях сдается поднимая руки вверх
+7097 missprologuig_1 | idle_on_floor_malehostage02 1
+сдается на коленях опустив голову вниз и руки
+7019 misslester1aig_7exit | interview_exitloop_f 1
+Тупо сидит
+7016 misslester1aig_5exit | boadroom_exitloop_m_f 1
+похоже что сидит, но думаю можно поставить и на покакать (там еще несколько таких подобных есть анимаций)
+6952 missheist_agency3aig_23 | urinal_base 1
+7015 misslester1aig_5exit | boardroom_exitloop_m_f (Полная анимация)
+ссыт. Тоже самое, есть несколько анимаций похожих
+6902 missheistfbi3b_ig8_2 | cpr_loop_paramedic
+массаж сердца
+6706 missfbi3ig_0 | shit_loop_trev
+какает на корточках
+6684 missfam6_yoga | a3_fail_to_start 1
+йога (Почти полный список йоги)
+6622 misschinese2_barrelroll | barrel_roll loob_b 1
+катит бочку
+6405 mini@safe_cracking | dial_turn_anti_slow 1
+Подбирает код к сейфу (Там много таких)
+10559 timetable@patricia@pat_ig_2@idle_a | idle_a 1
+на коленках копается в огороде
+10495 timetable@floyd@clean_kintchen@base | base 1
+вытирает со стола
+8997 skydive@parachute@ | chute_off 1
+снимает парашют
+8854 re@construction | idle_c 1
+разговаривает по телефону
+8839 rcmpaparazzo_4 | lift_hands_id_air_loop 1
+руки вверх
+8806 rcmminute2 | kneeling_arrest_idle 1
+сдается стоя на коленях
+8790 rcmfanatic3 | ef_3_rcm_loop_maryann 1
+отжимается
+8552 pickup_object | pickup_low 1
+поднимает с пола
+535 amb@prop_human_movie_studio_light@base | base 1
+Скручивает провода(Включает что-то) на уровне груди
+534 amb@prop_human_movie_bulb@idle_a | idle_a 1
+Cкручивает провода(Включает что-то) на уровне вытянутой руки
+12456 weapon@projectile@sticky_bomb | plant_floor 1
+cтавит бомбу на стену
+12456 weapon@projectile@sticky_bomb | plant_vertical_far 1
+закладывает бомбу на пол
+12428 weapons@misc@jerrycan@ | fire 1
+Поливает ведром что-то
+6 10705 trevor_1_int-30 | player_zero_dual-30 1
+руки в разные стороны
